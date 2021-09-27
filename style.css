@@ -1,0 +1,26 @@
+.style1 {
+	color:green;
+}
+.blue{
+	color:	#0000FF;
+}
+#paragraf3 .blue {
+	font-weight:bold;
+}
+#mark {
+	color: red;
+}
+#number {
+	color: blue;
+}
+#left_block {
+	display: block;
+	border-color: red;
+	float: left;
+ padding-left: 5%;
+}
+#right_block {
+	display: block;
+	float: left;
+ padding-left: 15%;
+}
